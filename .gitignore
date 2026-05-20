@@ -1,0 +1,6 @@
+.netrwhist
+*.log
+.DS_Store
+Thumbs.db
+.cache/
+undo/
